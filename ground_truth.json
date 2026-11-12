@@ -1,0 +1,5 @@
+[
+  {"case_id": "synthetic-authz-001", "cwe": "CWE-862"},
+  {"case_id": "synthetic-path-002", "cwe": "CWE-22"},
+  {"case_id": "synthetic-ssrf-003", "cwe": "CWE-918"}
+]
